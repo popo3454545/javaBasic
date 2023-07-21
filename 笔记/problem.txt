@@ -1,0 +1,4 @@
+Error adding module to project: setSdk: sdk '1.8' type 'JavaSDK' is not registered in ProjectJdkTable
+原因
+解决方法
+     File -> Project Structrue
